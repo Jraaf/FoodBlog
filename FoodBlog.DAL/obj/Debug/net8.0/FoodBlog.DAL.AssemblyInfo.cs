@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodBlog.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a84d74afe1ec043d53ef2e9ac521e62018dbe103")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodBlog.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodBlog.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

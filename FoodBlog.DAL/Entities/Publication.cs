@@ -9,7 +9,6 @@ namespace FoodBlog.DAL.Entities
     public class Publication
     {
         public int Id { get; set; }
-        public int MyProperty { get; set; }
-        public string Text { get; set; }=string.Empty;
+        public string Message { get; set; }=string.Empty;
     }
 }

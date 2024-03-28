@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WDssbLRJYUcYqJzcJQjxjqybT59RtlKpkyqwu5ULqOG8go5eSkaCr+nOThT6spjkI4qygY1aAJom8hxl32GqhA==",
+  "dgSpecHash": "gi9609qkxCo8VLS0YIa1UQLd1SVa36w6J5rejBlYEUq097qSinXF5h76M08KvjbLqKFq5qF9bhzRGDuOiMDI4w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Acer\\Desktop\\projects\\FoodBlog\\FoodBlog.BLL\\FoodBlog.BLL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

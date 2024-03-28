@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\bin\Debug\net8.0\FoodBlog.Common.deps.json
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\bin\Debug\net8.0\FoodBlog.Common.dll
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\bin\Debug\net8.0\FoodBlog.Common.pdb
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\obj\Debug\net8.0\FoodBlog.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\obj\Debug\net8.0\FoodBlog.Common.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\obj\Debug\net8.0\FoodBlog.Common.AssemblyInfo.cs
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\obj\Debug\net8.0\FoodBlog.Common.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\obj\Debug\net8.0\FoodBlog.Common.sourcelink.json
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\obj\Debug\net8.0\FoodBlog.Common.dll
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\obj\Debug\net8.0\refint\FoodBlog.Common.dll
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\obj\Debug\net8.0\FoodBlog.Common.pdb
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\obj\Debug\net8.0\ref\FoodBlog.Common.dll
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\bin\Debug\net8.0\FoodBlog.DAL.dll
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\bin\Debug\net8.0\FoodBlog.DAL.pdb
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\obj\Debug\net8.0\FoodBlog.Common.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\projects\FoodBlog\FoodBlog.Common\obj\Debug\net8.0\FoodBlog.Common.csproj.CopyComplete
