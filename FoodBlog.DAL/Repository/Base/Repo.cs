@@ -89,13 +89,13 @@ namespace FoodBlog.DAL.Repository.Base
         public async Task<bool> UpdateAsync(TEntity entity)
         {
 
-            _context.Update(entity);
+            _table.Update(entity);
             return await _context.SaveChangesAsync() > 0;
         }
 
         public async Task<bool> UpdateManyAsync(IEnumerable<TEntity> entities)
         {
-            _context.UpdateRange(entities);
+            _table.UpdateRange(entities);
             return await _context.SaveChangesAsync() > 0;
         }
     }

@@ -1,5 +1,6 @@
 ﻿using FoodBlog.BLL.Services;
 using FoodBlog.Common.DTO;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,6 +8,7 @@ namespace FoodBlog.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class PublicationController : ControllerBase
     {
         private readonly IPublicationService _service;

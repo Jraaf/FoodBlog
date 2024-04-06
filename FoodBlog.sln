@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodBlog", "FoodBlog\FoodBlog.csproj", "{45E65535-D5B9-43E7-B3C4-38AD41CDF1EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodBlog", "FoodBlog\FoodBlog.csproj", "{45E65535-D5B9-43E7-B3C4-38AD41CDF1EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodBlog.BLL", "FoodBlog.BLL\FoodBlog.BLL.csproj", "{F8A9A89F-3669-403D-900B-0AE1E93C0DF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodBlog.BLL", "FoodBlog.BLL\FoodBlog.BLL.csproj", "{F8A9A89F-3669-403D-900B-0AE1E93C0DF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodBlog.DAL", "FoodBlog.DAL\FoodBlog.DAL.csproj", "{3A3888AA-ADFD-440B-969D-86E18F9794F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodBlog.DAL", "FoodBlog.DAL\FoodBlog.DAL.csproj", "{3A3888AA-ADFD-440B-969D-86E18F9794F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodBlog.Common", "FoodBlog.Common\FoodBlog.Common.csproj", "{614EC168-3BD7-4A17-9A84-1FD33BF0DA4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodBlog.Common", "FoodBlog.Common\FoodBlog.Common.csproj", "{614EC168-3BD7-4A17-9A84-1FD33BF0DA4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodBlog.API", "FoodBlog.API\FoodBlog.API.csproj", "{E09D4553-7DE2-4FA0-96C3-380730487BF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{614EC168-3BD7-4A17-9A84-1FD33BF0DA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{614EC168-3BD7-4A17-9A84-1FD33BF0DA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{614EC168-3BD7-4A17-9A84-1FD33BF0DA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09D4553-7DE2-4FA0-96C3-380730487BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09D4553-7DE2-4FA0-96C3-380730487BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09D4553-7DE2-4FA0-96C3-380730487BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09D4553-7DE2-4FA0-96C3-380730487BF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
